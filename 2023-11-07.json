@@ -1,0 +1,26 @@
+{
+  "name": "Sam Green",
+  "age": 24,
+  "address": {
+    "street": "Donlop Grove",
+    "city": "Gatmoplor",
+    "state": "KS",
+    "zip": "21837"
+  },
+  "contact": {
+    "phone": "(517) 452-2116",
+    "servicePhone": "800675179"
+  },
+  "birthday": "1980-09-23T00:41:50.067Z",
+  "ip": "53.56.243.157",
+  "foo": "bar",
+  "profile": {
+    "about": "Nugah wuhwu duuva uloziul woka hovnah atla jikvive ipebaroki ar vaz hefoheki izhuru nukuge vebocfi vohe juinaruw. Cewnaku ibnud apnow falpib soc sapni sit mad sulojufu uzuita wirvaj vas. Pug min upfiku zofpo fiuvki bup uw ricwuri aculuce munih odu bemanjim mavse ulveh caonigo zucoc tug. Kezfuke solut geso ir ihinom mo kij tar taj lavnicu mottid coaweeli me.",
+    "bio": "Ij lizca he bofmenjo rarojfeb wevdoso az puw buel azamob moasjoc je asva. Atsul so noduar id lu jojazra coh uholib vaodihom suwhoji anwajja tufcu gil bemev pivzujun negub dijkoda. Rin fohru fonu ad edremud wav fi tefo mul da sas leli. Mopevif levi omhe kih ziwebfo nackusla uneneluk er bopja fubo temnuvne lo ligbepa."
+  },
+  "apiKey": "5db75e8d560e126ba83660d3e9546e70aa5a8ca6dfa86fd98179f82736550d36",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
