@@ -1,0 +1,26 @@
+{
+  "name": "Steve Kelly",
+  "age": 45,
+  "address": {
+    "street": "Kedom Extension",
+    "city": "Nagusoduk",
+    "state": "IN",
+    "zip": "21757"
+  },
+  "contact": {
+    "phone": "(288) 209-4256",
+    "servicePhone": "800313635"
+  },
+  "birthday": "1978-03-11T06:15:41.762Z",
+  "ip": "192.193.60.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Caefju ocogidsi penho iwu zan fu tu dumub ranwohzif ruri sos juzilom ri hiwziw hidpoizi wodulti. Med bejmozmid eruzurzim sodam gesiz ge na jufwofcet zev cupu pofba kod vuuvpe uphe zodu lasba rol. Reppobep ucel jezfeb mur cowtetbu ir melsato vad cuciwo al eslez la papgoge wid timlaljo itav jiho. Ine dumarupi ijo ulonir ezi muub cosmo tawowjo iru inounede baf pola kodmuh kelpure gi ipaifu. Ced omu ro nagiw keriv iltirwow pu nofso koh alnozih ifova ponjoc zu giasupo.",
+    "bio": "Muwi la kegtun fagwedi tu fizovi zo mik uvarev huc humoah on wubzofez jeheke zindi sekenas. Suru ri ziogvin pus alomadrih adu noh nogif jaf vi aciuneji akevom gidda. Juvi maprobcu za oke zom erow cif du kejro ci nurudcu zarjijpoc savbofi kit nes esasob. Mevarsa kabus jufec ajpi azijekvoj kibanowi vuv jonun geresaza kocobga kif vellus gonmihi hi vudkej. Pegbu boh etujanih veha jati nujacla fopofno maocu miw cofagor latouj didwew mecgo."
+  },
+  "apiKey": "77c8bcdd18acf95a40265c4b15e3807cd0faf4b9f3e7a41bb89bd998e77360ed",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
