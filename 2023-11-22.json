@@ -1,0 +1,26 @@
+{
+  "name": "Nina Burke",
+  "age": 23,
+  "address": {
+    "street": "Odevut Pike",
+    "city": "Hazaloanu",
+    "state": "NE",
+    "zip": "76341"
+  },
+  "contact": {
+    "phone": "(327) 442-9563",
+    "servicePhone": "800738981"
+  },
+  "birthday": "1992-10-29T00:05:01.156Z",
+  "ip": "50.168.119.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Enkim suluh tub laphutji ababoc ti pukfuhtas nokat vacav jauga ro ujecepu ataah lice pok luvizu wunu. Eg kajesa nifah fa bucba tomah tizzu zehun najiguf neuw cafaba jaaho lotkup wemhe. Juho daolu boibo be ru sid nahis izaumamut wogeovu woofe amu wa hehtawu ekbu wegubor miak. Vinuek mavuhzav zimedzab pum jirespa tadruba cez zundarbig sehteflok zih ci gaheluh cigi.",
+    "bio": "Kunedhe tebdade tonkudre nebe ut bethaja riwuk dazaj vow ji id agamu virgu uvizivwod novo fiwi ikpikwek mecofhud. Robuuga utmomize tibubwiz joruco nib gifnahluh husrer feij ti jon ritje abeveraz habok op ebusge. Faupepaz cib vetav popuj ico fa lecvoov siko tif falo mus ihra ham cujmisfi niivu ginupoz ed. Ledji negamu cafun ol uc jijse zemithu ver gav ki kizvop hucbi novkiwbu. Kejjafag ug bizzo pouguta ulusepe ufizag lol inaam epa zuwebdod otaiwaciw ihjo fi gaj bigotot cusa hiul."
+  },
+  "apiKey": "95ddf40089bbcee1709687dbb9d5c0771214f2bdb95d964acb36b38e5c5381a9",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
