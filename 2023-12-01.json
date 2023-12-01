@@ -1,0 +1,26 @@
+{
+  "name": "Jean Swanson",
+  "age": 48,
+  "address": {
+    "street": "Bicer Point",
+    "city": "Latpuluk",
+    "state": "SD",
+    "zip": "31242"
+  },
+  "contact": {
+    "phone": "(461) 677-5815",
+    "servicePhone": "800629861"
+  },
+  "birthday": "1968-06-29T20:55:42.065Z",
+  "ip": "245.193.26.130",
+  "foo": "bar",
+  "profile": {
+    "about": "Ofepimi egoibe rojvilda koc posa keni kes ok du wacowa bu googopa ro tu. Hi puj budnam gonal is hi ukcos vukan miviveg ijo saslisce titurled loh. Loz savradal mirak ki ohauwonap kewwe reha lefe wi giwudzeh im nove. Aku wendanas puwic re sacroka zevbic viw foeczir dagi gajuki atduvej bes zopwajaz mewne.",
+    "bio": "Boz cenbar mumajzaj wi saehpo abmi guka ulire pacuzufe ubanuva jazani nicrilga ducoci. Ses gesbimi bukli jeritiba vek osa aw bebaefo hakek hembel bobabe tez igcepvig va hinezmol. Ucuhip lewocara roro balpipvok me vocu nawim bekur ruca tozzuh deka iziuk kij nitomona uveek mih."
+  },
+  "apiKey": "f907fbbe605a1a38407b6638a8ebd36757eef6766eaa43ba57600c5354083e3a",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
