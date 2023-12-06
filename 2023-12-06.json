@@ -1,0 +1,26 @@
+{
+  "name": "Georgia Waters",
+  "age": 36,
+  "address": {
+    "street": "Mopaw Parkway",
+    "city": "Urjuztik",
+    "state": "MO",
+    "zip": "83596"
+  },
+  "contact": {
+    "phone": "(408) 882-9647",
+    "servicePhone": "800795497"
+  },
+  "birthday": "1983-07-31T23:52:54.665Z",
+  "ip": "71.29.176.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Di kot amukome debi dajuwam buvin welaka ossikov ne lihe udzeza zir hu dijfi vijepuc. Kanaese puzu nizdojom sedve nah hec hiegemi ug bejzunoj ab hefob vajated he ta kemajgiv. Taculbih biunvuf za efewa opaj ami sezjadi fozpup ez ebu dunbowjuj ida siz hokvavcin lan wek imzabne.",
+    "bio": "Wulnalowe iswefodi izcuen wigik zo nojpi tapew incaf mi ogmihba os mo. Sapus fe vemhuj weecij obdicla miluvin ehzeiwu az fup coziciji zunev rabho cumovak tud ebvurkuc. Mutkaju nahtoteso jajaic tiz wubesejez epouce iloefuheh idufis datgirob iha kek rozaca mel icomitfu lel nupibaf risowcad tapoh."
+  },
+  "apiKey": "c9f5db703382bf0a147eb309ff9e7877322b7490952d7b6091172d160de97f77",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
