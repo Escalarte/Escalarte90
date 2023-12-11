@@ -1,0 +1,26 @@
+{
+  "name": "Lester Berry",
+  "age": 22,
+  "address": {
+    "street": "Ranet Point",
+    "city": "Cezunog",
+    "state": "AZ",
+    "zip": "00240"
+  },
+  "contact": {
+    "phone": "(843) 786-4802",
+    "servicePhone": "800822277"
+  },
+  "birthday": "1986-04-17T14:14:29.413Z",
+  "ip": "8.217.11.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Iguamme tuirafec defpi niuk sacew tiv rabut kof fu re powe kakgur dag unzi sueduvev waipu calsef. Pimag bi keopiem iramofoh rokeiri zaezebi dezulop lo hojaver waz tadikgi obuji luwed nukzuk hamu. Itu cahak jogtepuk we nukikguf lidgeriw zin lewnoj izji givaccen gilfulih gupo hu rouv kupoglo valpef bu ura.",
+    "bio": "Aggevva hohsa tipoz akuevo ob wir lawkot wigud huhbev zoldopa hijumbu wuv. Ehhip alanulhop vuznuvif jeop tejkiba wew epjod lu vimaci nob azipazcas po ru orohuh geudved ji. Nowedunij vimagci dobvorim ticep koosa to bo jiszosur ipuocuar penaka jelciz rutveiv upi fonepzi so ew rahi pokge."
+  },
+  "apiKey": "c39f0a968a3263c2039c50b75cad2fe04614d502300bb604ed72fae39d34f5cf",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
