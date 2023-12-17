@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Dean",
+  "age": 35,
+  "address": {
+    "street": "Nisos Street",
+    "city": "Rittajsa",
+    "state": "MI",
+    "zip": "23895"
+  },
+  "contact": {
+    "phone": "(828) 229-4016",
+    "servicePhone": "800628939"
+  },
+  "birthday": "1972-03-20T13:29:36.446Z",
+  "ip": "244.8.209.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Somino canuv feco wabez igasa dafiaro lufpagfa datbefpup jowap be zun bofehiki ma nuczu kalok suv turgubu newobe. Pefda pifival agate wolsaog sarmu jo soila cucekav ep ke midu ut izeje ge ifvu viulozob guzhim reko. Aw ug gento kauv jerhavo fij ga zahjo fodom ifep rajut upahegi. Wot nadodu gonhecab lu obowoc mazite sajiofi ocmer rifacab bar soczuuf vumhovka lisa usmuksa zomtav.",
+    "bio": "Isicocu dehna ujaepa redowu wunospo kugze fuzsebbi cirvuw turjiwat wi jozbuw tilud wo di efemoruw pumij. Ogma pew eca gipifla loda hi talduz wa bosaaf jas sefed hibrebnac hejom ozgamu we. Rud no peluj uju bogwa ip et hiso umawuciz kihrev warriam sakawsi mato mobocza tigut ziap ban."
+  },
+  "apiKey": "b78f49e30c4b9151771dbde64ef622a10156f471947a373b02b64234c940170a",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
