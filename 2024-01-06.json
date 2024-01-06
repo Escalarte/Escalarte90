@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Garza",
+  "age": 58,
+  "address": {
+    "street": "Vafnu Key",
+    "city": "Riubcut",
+    "state": "NE",
+    "zip": "58024"
+  },
+  "contact": {
+    "phone": "(218) 737-5945",
+    "servicePhone": "800118795"
+  },
+  "birthday": "1964-03-21T09:16:10.048Z",
+  "ip": "98.129.249.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Wek fo tudbapiz cuhgare namago diruzor nuriwizab zarlak wemisak jaiguosu cetec fov nu pejwug. Bav upi ra jamzawlu ketkoponu jiwkuw fafepriw hadkovgo ceuni zadobbol zoivukoh gauju jeesa ijeleste dehkowaw ve. Ipopazdup jigud tuwolawu kucdika ne dulmazug duhu tek degi ceebzi ci zubzuv sis wewjun.",
+    "bio": "Jekhob nepwagek zebbahbak mamala jiilte ofesa ebig majihwu tevugi taofaguh bet reprosoh veenevof fivjuul. Ivini mojkuej diceg ife wetzoz lowvecbig uwove vadu vufopfaw rurmenneg bo je veki unaij tadeid je. Ji tu sajof jimkevzi taze wu cuki onearuali fimol mahje gac rakomaj diragu gegab ojehaewe sag."
+  },
+  "apiKey": "f6ed9959ccd43ddf63aa1d3456eea6dc90526d7c7c954cb158346bd3142b1061",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
