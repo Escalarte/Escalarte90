@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Santiago",
+  "age": 22,
+  "address": {
+    "street": "Fojup Path",
+    "city": "Tipetto",
+    "state": "MN",
+    "zip": "27434"
+  },
+  "contact": {
+    "phone": "(287) 712-8320",
+    "servicePhone": "800879279"
+  },
+  "birthday": "1963-01-02T01:02:49.082Z",
+  "ip": "106.229.158.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Insiv sizikah den suf embiur lo wo licbi suusa wa ivonu ge foloppa juzobwu ewuovi lacwal wilochi mo. Fuku we ner vidir eme wefebugi arume delwut ju tapduf soguk wih icbuw ziseb zappeh fuwpe usoisuko. Gujne cu es fo hachil wubogec huzwi cizmi ojeob iva ihpo jojogi tocofir ofuut. Harmodduw daazno bevobuda tautefa de ejpu fok semjos vah epkogo keshiw vezpigi udriw.",
+    "bio": "Inhod deukjot kiut op ju paze zoij mivgo te hodtel zezwez hogveet egaku. Vivwow covdabpir fomahuda zibon omovezpes wiefeb zawje pe gotko obse weg esep reshohziv gom fimo homib tububin. Lonuw doralca co serjuchef jelcogmag tikni tomi otibo dakreg iwawa paznesha ubusime derid toj viw. Bij larutpe ca muk litep su zarek aj luv ti fu vodwudmo seztuk jahkaugu jatuwpa. Wenpov pakku min rizrogo paltu nareso iceco fu pasu zef lofoh leladij udohehlu sutela ujtur visab rujiip lulni. Nuwapup bolgi mew kukewu kirkamed cevvun lokcu duilujom kakuh ruev fut espucir ojeemimi vilozka panracud lehip ecne cafimku. Ihi ukevo sod izegot zo famoag do hefi dulo ikufa hil vozhucmo gukoh cezvi wuhavuulu ru pore nozircar."
+  },
+  "apiKey": "ea756d9d17c15b688a492d36c7741afd76795dd9009a931f79e375cda3f122ef",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
