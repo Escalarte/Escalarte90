@@ -1,0 +1,26 @@
+{
+  "name": "Philip Bryant",
+  "age": 44,
+  "address": {
+    "street": "Marfic Path",
+    "city": "Motmiwu",
+    "state": "IN",
+    "zip": "91994"
+  },
+  "contact": {
+    "phone": "(918) 829-1071",
+    "servicePhone": "800367376"
+  },
+  "birthday": "1995-09-19T07:36:10.248Z",
+  "ip": "91.106.26.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Re odulenbim ru at dashegu jiz ife kidwom pojunoc do welzegzo biapi ta vidsik wuhe esabuom ibisav likwi. Ruw jan nonoj nub ga og pifcuvu mahev kezsa rettah fevvudug pu idanoik don mefze nazah vecefavi tapuzwes. Vib rif ajipov kek vul rim liwbodta re viza midtubih zica milda lew ceb. Fufuhik zukkirid iwemneg zeshanatu zetetos iwijuz woko dulo sas pu divbobe bamop zivup. Iro udekeaci lalepi kaanoila fubvodehi cetucne noini apolal vo evo genopuc pa epap. Maas wisir di ukala mol lasewa wamkoede pomal limefaf sibumli uli fizoego wi osa piptur ekhugul deriog.",
+    "bio": "Rapfalki volub jerufiso suale iv vefbasuv feecepas hudzihuv afifa hefcimov bicuju is eboto ollifpo otramog solobe sahlif. Cejfuv guh bocop cin mavomaw suepeijo tacneh ulovecu zem dahpezi jupanoz sisolu. Mitikke jefubuj itemun savnidce je kael ihofiw pezov untiivu tal lib tiik."
+  },
+  "apiKey": "d0bd22c2f7db61dbbdb062664170b67f00d832ea58595db4a059bed2f90e7b9a",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
