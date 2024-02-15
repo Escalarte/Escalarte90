@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Jensen",
+  "age": 56,
+  "address": {
+    "street": "Upal Glen",
+    "city": "Konewa",
+    "state": "NC",
+    "zip": "03769"
+  },
+  "contact": {
+    "phone": "(689) 325-4492",
+    "servicePhone": "800631635"
+  },
+  "birthday": "1970-11-19T10:37:54.569Z",
+  "ip": "178.151.112.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Ra sadagas te dobdivaf ekup wuluskab tupfip zevciwdu suacta juhbi weklov ka fa pujed nuvilze nev opawatbin jazdo. Mehule na zuf ce cijbob ducjijser diwopig dukwinsat lih imdiad ed jad wehjuvime sonfo irfi nipo up saszur. Kojun bek he tilcu foret pofafze unroaci hatmi fujzinkon kipfocwo evomufisi ipjace fowowis.",
+    "bio": "Dehupe tuf kob wutur ucimuzte la silco ovvafe is winkoaje agmuk uva jezuhu war lobujij zun. Kip innimseh red vijel tizefuga gow vueho tigrout lepka dudbegek vagi inunifdu. Igove ehu id ugto velu ren cubdoni tazim ba dopu udipim avzow vimegdel duci fez dumno to. Buzgutmus meg aga ew reuge sew tobuat ver dupise ezwis kap wi emzujej gajit."
+  },
+  "apiKey": "d212132ceff3f9725f5d54962fca7f8faf358c535e946cad9ef1349bfeeb7080",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
