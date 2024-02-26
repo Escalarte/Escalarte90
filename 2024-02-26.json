@@ -1,0 +1,26 @@
+{
+  "name": "Floyd George",
+  "age": 40,
+  "address": {
+    "street": "Soja Drive",
+    "city": "Vudonzeg",
+    "state": "SD",
+    "zip": "37749"
+  },
+  "contact": {
+    "phone": "(842) 862-8982",
+    "servicePhone": "800399749"
+  },
+  "birthday": "1999-03-30T11:17:40.404Z",
+  "ip": "120.71.228.213",
+  "foo": "bar",
+  "profile": {
+    "about": "So ciluzit vavucani mazhemid occuwon bo gu degfa ceti nurere ne lajepi can. Zil siuwi votguul nevab zocgo of uvma sagrag kekavinec lehsuzo egerif ki ru sadij nesseid conot gifarke mo. Ez wim esaap ozo eze hearebo noc zih mu lotha gi ru dag utsa fa nalhe fav dipvudpi. Mot iso lotibrag papaasa unitibuk totepaf gotu jushu efobam naik huumo cuhka ewucijok.",
+    "bio": "Guovcob ave nakehsa ucupi hebu kem birew ke nunzerin huuzumol vuh pahegla do ke giba ac carha. Pac wej nava nakalafe fefos junon buwmoc guol avmion ig ozfatic su he bijego fafu onpez mi tedabo. Fasujno ja avfewwa gedoj datiluwij jahu kal ki ow ube gaca asorewez fov husiwo gecwe."
+  },
+  "apiKey": "f7016ffd4ea3748b9439c85a2507470b9f9ae6d508c22fc15c412860a7c6651c",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
