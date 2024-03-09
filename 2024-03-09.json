@@ -1,0 +1,26 @@
+{
+  "name": "Mark Holland",
+  "age": 47,
+  "address": {
+    "street": "Reca Lane",
+    "city": "Powiwapa",
+    "state": "AK",
+    "zip": "40291"
+  },
+  "contact": {
+    "phone": "(662) 615-1150",
+    "servicePhone": "800652839"
+  },
+  "birthday": "1993-01-26T13:52:30.097Z",
+  "ip": "140.182.245.240",
+  "foo": "bar",
+  "profile": {
+    "about": "Do lacaszi beh oslavtul bebahuri pegratih negom wa voiliuji ma zu midpircit ijinuf. Sev wamselfoc jedwor ogriz veebo wilupazi le raizagow ir zunmikew si bawum va wibja. Riid kaphamda zebojen ki be ame kebtiij cudin wutsevef lec dohahuzu wej. Va mijco no kupjuk va duf toiw ca lovurod zuzed moba tawebif rurbazuje colgo bic zu ivdecpum. Kahainu lolul ufjipu etner po efrupvan tesok kojo secgovak atolubu koggaheg rikeb ge olihob etotej.",
+    "bio": "Juvon vu vivsef sa zijpa ducaf ve weldod wopken ja jejgi guvez vonod hannozaga laze tuug tenosi pu. Si abulo ic ve veheneta nogev pe lojucuow facan ristu jer vefe. Guf sop mongovo homwiju wiij jil mu ko ogeunu ig tetu farlowbec ruwwina co lur ip kuvasdu."
+  },
+  "apiKey": "44d8c96a9b7c7508bd80532cdd74c6f2c06810e6104717da37484a9820a0eda2",
+  "currency": {
+    "code": "STD",
+    "name": "São Tomé and Príncipe Dobra"
+  }
+}
