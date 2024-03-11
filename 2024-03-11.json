@@ -1,0 +1,26 @@
+{
+  "name": "Alfred Turner",
+  "age": 23,
+  "address": {
+    "street": "Sabam Path",
+    "city": "Ubunuzuki",
+    "state": "MA",
+    "zip": "10714"
+  },
+  "contact": {
+    "phone": "(376) 759-2064",
+    "servicePhone": "800949674"
+  },
+  "birthday": "1974-06-09T02:32:45.288Z",
+  "ip": "37.152.249.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Zugvef jir ilezapef je gos gehi occaznak tiwzesej vaztukun mizmaoz edeak bof jiroji. Pi cu so ecbim biz oje joomfal mep uhuzi widzeug deerde hed ho misujef giw rizbaib. Figjazog titeb gudiftud fa haemile koumwug tar et dobaov ebo dezhi puses dolob lofbe katgi hor.",
+    "bio": "Baba di ujoetolam riloow nezo zuhfizaf lovuwe ni cicdi mazbed jupe ges fa teet buskeg pecim kepoltaz wudkor. Dithetro jomoiv ovuhazet pig uwagifir kiz zakfej dafe zuzfa fuzoji savaweces tun vokuav ercat rohu jufejri. Jippac hizin pa kikes povoviwam hubbiz hunejcon egnug tokhutzo niegu barpu pareseh vune ehmeb uneholi lehifa. Milhizpon cus hevwinaja feudawe zotvic nudfotal gov hedidew var numebisu laddari luv reticze si."
+  },
+  "apiKey": "6cba2a83aec5265989e5cdeb939e833ededdcfaa67be9e38321149f8af328b43",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
