@@ -1,0 +1,26 @@
+{
+  "name": "Dollie Dean",
+  "age": 53,
+  "address": {
+    "street": "Curas Way",
+    "city": "Uhaajum",
+    "state": "AR",
+    "zip": "89288"
+  },
+  "contact": {
+    "phone": "(853) 464-9067",
+    "servicePhone": "800767657"
+  },
+  "birthday": "1993-07-03T09:54:29.448Z",
+  "ip": "26.236.3.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Ni zi fu acnako cas vepelzon nag utu camanun da ehe fikgi fofik milepsel bewsagdas pobu le. Voko tecdi ovece tot vumcucu tuhun fehin fakri ruzcab ov po po fu obser. Um vica cezewo go faz ribdov aj cakfi eg curabmuk willu feradat tutu fodig eparo muloroudo.",
+    "bio": "Gaeretul ilnijov fanlu wojdicek ildi vu sev vuvmi towizi mikwowil mohsa getderca. Numnij jevih beh famzatzo sas gokkoda bejlama sed bonu livhi pu orocuhpe tehitdof ogfav. Ihofub guhvif fa isac sunusre emeceb tijo sigekfur uz hu ewcolza ul ibi ti uvi bin cagdalbe ler. Dogdigdaz ka toketdof pi siriv buzsur risuke po cod vofakesi imo hahi gecejuf. Ko vomcebic wescien zav pemte fot fi cuh cic sukmoiro pose ake ucevajuvu si cojev lijdajwut za nageloma."
+  },
+  "apiKey": "6b4e42ac478bf6e6fba5d9f018eb57f70e87f8a1bc69057b1ce3794571e6ed20",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
