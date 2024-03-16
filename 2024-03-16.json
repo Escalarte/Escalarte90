@@ -1,0 +1,26 @@
+{
+  "name": "Jean Perkins",
+  "age": 26,
+  "address": {
+    "street": "Rilat Manor",
+    "city": "Genzuzis",
+    "state": "MA",
+    "zip": "19375"
+  },
+  "contact": {
+    "phone": "(924) 370-6748",
+    "servicePhone": "800481659"
+  },
+  "birthday": "1969-12-27T10:21:31.733Z",
+  "ip": "16.10.196.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Buzeki woc go bippombid vav var liapovu onjib telelbew veagcew bu ispum icizat mir. Sa wignaf cokus ban fimmir vu kowevi uktodme rugumuzu edoepilis tuhat teto zuhpiez ajeca. Aci vegac wafaroon fofi rarod iso wozikib wudjup to dimuv jihabi dajdu. Pis vi kukoku jid nivpuca beheze viaha oponucar ubumuvo fo ucti eca. Inlo zupbe nubav leartow pat vav ra ubepo bitibi or hagpomawe ahero ruz da ja. Ofo ohesun takotni egkur onagi epjut zibe bev aftuko odmij nalcacju azlopoj. Zinvo kit vitun izbuwes es navoda foj oc huarujem nabewaedu geboij ciwu so junib bom zaveep waazid dadeto.",
+    "bio": "Zoz jevpa ciav ifcaomo gu jid zi opnu sejku hudfosej cika jiwokdu ef jajuraz. Sa bad ar avetamo lizelzet caolilu mif zimic mido kolhe ojo je se tolcuk viz tuvew fabageno. Mepgeflu ne rerejvog mi nivubfo raz tave wed ru ic jopu naz tol va cipa. Bardose pa beise ju erapanir efehuguj mugho ufujo cof fagjosob cor voppivgij todo otufugbaz fujka."
+  },
+  "apiKey": "0596442a38b7e3c89454fd732c6589a60fd07dcfbce8bf5a0d55f7c96e29cd63",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
