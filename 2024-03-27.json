@@ -1,0 +1,26 @@
+{
+  "name": "Zachary Strickland",
+  "age": 30,
+  "address": {
+    "street": "Zawvah Avenue",
+    "city": "Pirewuc",
+    "state": "NY",
+    "zip": "38579"
+  },
+  "contact": {
+    "phone": "(463) 879-7554",
+    "servicePhone": "800631165"
+  },
+  "birthday": "2005-07-02T02:03:56.793Z",
+  "ip": "12.148.33.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Koneldu cilodor wot ka jab lursa ilugujse jar pigujo fepedo uvajupib of dostat uki cahuza sesag navguhi utguz. Hizava jucij apeca re cuupi aktunir elaodpug leeghu ternu faj ehdu wejnope vibnosveh zi. Li mopegutu wurov zoos bar hugi nakouj gonfu omoaw vo kuha vilnemsuz nih umwam kes. Ji rag deziw wi vakehmu jewpaj efeota honurmom butcu vujupizi wini sek cagnoz hi nifedipu. Oji egta lobniji ellible dihaw eh be zejoj julcof jipna nabnap ciwi ekposli. Alnuw ogu ufogammu nisarik la dagaore iclunet tucuh vic arohalos morejti fiddopafu wec fipa. Reric cepazta odkaepa picanho adodle rurzumu manega memu lo kadzom bouc fovgojwi cufpi zus bap ratasoka.",
+    "bio": "Ta bosagozu je madar wijoj nubimus zil za ligsu gib zuiftu wopfufem. Jahohvo ustep ofeadusu be zo miluaj vifme hepibow panuzil ropdug cicimcu sam peuse fuvu. Ji navas wuf ba fajeza dudsofec le lazen copum rifromi ravci li."
+  },
+  "apiKey": "3f662fd6c2815afa20880fcc2784c19f3487c83496dfa810b0f54d08fd5b60b3",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
